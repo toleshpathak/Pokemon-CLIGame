@@ -10,8 +10,10 @@ This is a game similar to original Pokemon Red and Blue at a core level. This ga
   ![](image/arcade.png)
 # Story Mode
   Story mode is where you roam in the map and go from one gym to another challenging gym master, You get a badge after defeating the gym master and after colleting all     badges you win the game.
-  ![](image/Map.png)
+![](image/Map.png)
 
-![](image/pokidex.png)
+# Pokidex
+  Pokidex is where you can see the stats of the pokemon and as well as there ascii art.
+  ![](image/pokidex.png)
 
 ![](image/ascii.png)
